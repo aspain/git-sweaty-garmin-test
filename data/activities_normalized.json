@@ -17132,5 +17132,18 @@
     "start_date_local": "2026-05-19T07:27:59",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-20",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "22947332136",
+    "moving_time": 3505.5,
+    "name": "Strength",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-05-20T06:28:19",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
