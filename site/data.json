@@ -11879,6 +11879,15 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/22973276939",
       "year": 2026
+    },
+    {
+      "date": "2026-05-24",
+      "hour": 7,
+      "name": "Ocean City Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22995190579",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -23219,6 +23228,15 @@
           "distance": 5169.419921875,
           "elevation_gain": 129.0,
           "moving_time": 2266.0
+        },
+        "2026-05-24": {
+          "activity_ids": [
+            "22995190579"
+          ],
+          "count": 1,
+          "distance": 8117.14013671875,
+          "elevation_gain": 15.0,
+          "moving_time": 3120.7990112304688
         }
       },
       "VirtualRide": {
@@ -23752,7 +23770,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/769515be-3a2a-41db-8416-34d02a94f100",
-  "generated_at": "2026-05-23T15:31:31.944301+00:00",
+  "generated_at": "2026-05-24T15:31:29.328240+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/769515be-3a2a-41db-8416-34d02a94f100",
   "repo": "aspain/git-sweaty-garmin-test",
