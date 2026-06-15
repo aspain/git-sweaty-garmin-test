@@ -17379,5 +17379,18 @@
     "start_date_local": "2026-06-13T08:27:01",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-15",
+    "distance": 5007.68994140625,
+    "elevation_gain": 37.0,
+    "id": "23256440293",
+    "moving_time": 1907.8349609375,
+    "name": "Ocean City Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-06-15T07:46:01",
+    "type": "Run",
+    "year": 2026
   }
 ]
