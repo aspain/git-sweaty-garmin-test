@@ -12131,6 +12131,24 @@
       "type": "WeightTraining",
       "url": "https://connect.garmin.com/modern/activity/23429657775",
       "year": 2026
+    },
+    {
+      "date": "2026-06-30",
+      "hour": 17,
+      "name": "Cardio",
+      "subtype": "indoor_cardio",
+      "type": "Workout",
+      "url": "https://connect.garmin.com/modern/activity/23435501433",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-01",
+      "hour": 7,
+      "name": "Baltimore County Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/23441278782",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -23570,6 +23588,15 @@
           "distance": 5247.7099609375,
           "elevation_gain": 136.0,
           "moving_time": 2400.1840209960938
+        },
+        "2026-07-01": {
+          "activity_ids": [
+            "23441278782"
+          ],
+          "count": 1,
+          "distance": 4766.169921875,
+          "elevation_gain": 115.0,
+          "moving_time": 2187.208984375
         }
       },
       "VirtualRide": {
@@ -24251,12 +24278,21 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2310.177001953125
+        },
+        "2026-06-30": {
+          "activity_ids": [
+            "23435501433"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3150.989990234375
         }
       }
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/769515be-3a2a-41db-8416-34d02a94f100",
-  "generated_at": "2026-06-30T15:57:02.066521+00:00",
+  "generated_at": "2026-07-01T15:56:02.434941+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/769515be-3a2a-41db-8416-34d02a94f100",
   "repo": "aspain/git-sweaty-garmin-test",
