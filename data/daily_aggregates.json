@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T16:10:33.634704+00:00",
+  "generated_at": "2026-07-05T16:15:29.338042+00:00",
   "years": {
     "2019": {
       "VirtualRide": {
@@ -11446,6 +11446,17 @@
           "distance": 4766.169921875,
           "elevation_gain": 115.0,
           "moving_time": 2187.208984375
+        }
+      },
+      "TrailRun": {
+        "2026-07-05": {
+          "activity_ids": [
+            "23488002461"
+          ],
+          "count": 1,
+          "distance": 5245.1298828125,
+          "elevation_gain": 133.0,
+          "moving_time": 2382.5599975585938
         }
       },
       "VirtualRide": {
