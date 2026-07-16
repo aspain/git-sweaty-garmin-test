@@ -17691,5 +17691,18 @@
     "start_date_local": "2026-07-15T07:19:22",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-16",
+    "distance": 2195.27001953125,
+    "elevation_gain": 33.0,
+    "id": "23618223764",
+    "moving_time": 1619.0,
+    "name": "Baltimore County Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-07-16T07:26:46",
+    "type": "Walk",
+    "year": 2026
   }
 ]
