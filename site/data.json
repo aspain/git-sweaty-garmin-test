@@ -12410,6 +12410,15 @@
       "type": "TrailRun",
       "url": "https://connect.garmin.com/modern/activity/23935260341",
       "year": 2026
+    },
+    {
+      "date": "2026-08-12",
+      "hour": 7,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/23948832459",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -24613,6 +24622,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2877.488037109375
+        },
+        "2026-08-12": {
+          "activity_ids": [
+            "23948832459"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2836.657958984375
         }
       },
       "Workout": {
@@ -24818,7 +24836,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/769515be-3a2a-41db-8416-34d02a94f100",
-  "generated_at": "2026-08-11T16:04:43.076308+00:00",
+  "generated_at": "2026-08-12T16:03:28.443490+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/769515be-3a2a-41db-8416-34d02a94f100",
   "repo": "aspain/git-sweaty-garmin-test",
